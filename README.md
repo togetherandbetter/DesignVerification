@@ -1,6 +1,6 @@
-# ASIC_Verification
+# **ASIC_Verification**
 
-**The first blog post, the opening of the text**  
+## **The first blog post, the opening of the text**  
 
 This is a personal blog about channel coding technology that is used to sort out wireless communication knowledge, record research notes or make phased summaries. The blog content refers to, but is not limited to, IEEE standards and the like.  
 
@@ -12,6 +12,6 @@ Each stage of the work has its own research tasks, and as the breadth and depth 
 
 Disclaimer: This article is for academic exchange only, not for commercial use. Therefore, the specific reference materials do not correspond in detail. If a certain part inadvertently violates everyone's interests, you can also look at Haihan and contact the blogger to delete it. This talent is shallow, and it is inevitable that mistakes will be made when sorting out the summary. I hope you will not correct me. Thank you.  
 
-**Contact information**  
+## **Contact information**  
 Weibo: @TogatherAndBetter  
 Email: ic_v@qq.com  
