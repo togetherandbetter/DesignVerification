@@ -1,5 +1,4 @@
-# UVM
-As a ic_ver,Familiar with mastering systemverilog syntax and UVM verification platform is the basic skill.  
+# ASIC_Verification
 
 **The first blog post, the opening of the text**  
 
